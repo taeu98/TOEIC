@@ -1,7 +1,5 @@
 # TOEIC
 
-<h1><details>
-    <summary>RC</summary>
-    <li> <a href="./posts/TOEIC/RC/TEST01.md">TOEIC01</a></li>
-    <li> <a href="./posts/TOEIC/RC/TEST01.md">TOEIC01</a></li>
-</details>
+## RC
+- [TEST 01](./posts/TOEIC/RC/TEST01.md)
+- [TEST 02](./posts/TOEIC/RC/TEST02.md)
