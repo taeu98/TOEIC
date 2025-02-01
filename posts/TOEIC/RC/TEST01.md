@@ -1,10 +1,10 @@
 ## PART 5
 **101.** Former Sendai Company CEO Ken Nakata spoke about -------- career experiences.  
+> 해석: Sendai 회사의 전 최고 경영자인 Ken Nakata가 자신의 경격에 대해 말했다.  
 (A) he (주격)  
 (B) his (소유격)  
 (C) him (목적격)  
 (D) himself (재귀)  
-> 해석: Sendai 회사의 전 최고 경영자인 Ken Nakata가 자신의 경격에 대해 말했다.  
 > 해설: 빈칸에는 뒤에 온 복합명사 career experiences를 수식하는 인칭대명사가 들어가야 한다. 따라서 명사 앞에 쓰여 한정사 역할을 할 수 있는 소유격 인칭대명사 `(B)his`가 정답이다.
   
 **102.** Passengers who will be taking a -------- domestic flight should go to Terminal A.  
