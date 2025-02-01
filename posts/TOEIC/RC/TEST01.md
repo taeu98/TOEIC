@@ -1,6 +1,7 @@
 ## PART 5
 **101.** Former Sendai Company CEO Ken Nakata spoke about -------- career experiences.  
 > 해석: Sendai 회사의 전 최고 경영자인 Ken Nakata가 자신의 경격에 대해 말했다.  
+
 (A) he (주격)  
 (B) his (소유격)  
 (C) him (목적격)  
